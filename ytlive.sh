@@ -4,7 +4,7 @@
 STREAM_TIME=1800
 ROTATION=90
 REGION=0.25,0.25,0.5,0.5
-YOUTUBE_URL="rtmp://x.rtmp.youtube.com/live2/94qu-5jkb-fa8x-a1e2"
+YOUTUBE_URL="rtmp://x.rtmp.youtube.com/live2/YOUTUBE_LIVE_KEY"
 
 ytlive()
 {
